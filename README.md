@@ -76,8 +76,8 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
-![OUTPUT](./ml1.png)
-![OUTPUT](./m2.png)
+![ml1](https://user-images.githubusercontent.com/94747031/193338289-e7a42620-4d06-4a41-9b5e-0e5c9cdd0bd2.png)
+
 
 
 ## Result:
