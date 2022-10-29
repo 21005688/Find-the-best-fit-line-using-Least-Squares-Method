@@ -50,11 +50,17 @@ plt.show()
 ```
 
 ## Output:
+Finding Mean of X:
 ![F](https://user-images.githubusercontent.com/94747031/198823939-10276637-2bad-4aa5-b8db-22763369a789.png)
+Finding Mean of Y:
 ![A](https://user-images.githubusercontent.com/94747031/198823941-524e5d10-8695-4f88-8c65-691c574e1117.png)
+Finding the slope m:
 ![B](https://user-images.githubusercontent.com/94747031/198823942-67bb0177-3fd3-4b74-80da-751c957285c2.png)
+Finding the y intercept:
 ![C](https://user-images.githubusercontent.com/94747031/198823943-af52b7ab-e317-4895-aa24-778f5c77972a.png)
+Equation of line:
 ![D](https://user-images.githubusercontent.com/94747031/198823944-f02b19ef-8b62-408e-b236-7256575140f0.png)
+Best fit line:
 ![E](https://user-images.githubusercontent.com/94747031/198823946-7e691e4b-d436-432f-a14d-2d2c31364b07.png)
 
 
