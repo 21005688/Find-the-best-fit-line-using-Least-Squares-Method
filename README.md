@@ -51,7 +51,7 @@ plt.show()
 
 ## Output:
 
-## Finding Mean of X:
+## Best fit line:
 ![A](https://user-images.githubusercontent.com/94747031/198823939-10276637-2bad-4aa5-b8db-22763369a789.png)
 
 ## Finding Mean of Y:
@@ -66,7 +66,7 @@ plt.show()
 ## Equation of line:
 ![E](https://user-images.githubusercontent.com/94747031/198823944-f02b19ef-8b62-408e-b236-7256575140f0.png)
 
-## Best fit line:
+## Finding Mean of X :
 ![F](https://user-images.githubusercontent.com/94747031/198823946-7e691e4b-d436-432f-a14d-2d2c31364b07.png)
 
 
