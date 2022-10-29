@@ -66,6 +66,7 @@ Equation of line:
 ![E](https://user-images.githubusercontent.com/94747031/198823944-f02b19ef-8b62-408e-b236-7256575140f0.png)
 
 Best fit line:
+
 ![F](https://user-images.githubusercontent.com/94747031/198823946-7e691e4b-d436-432f-a14d-2d2c31364b07.png)
 
 
